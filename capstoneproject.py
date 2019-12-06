@@ -1,7 +1,5 @@
 
-# coding: utf-8
-
-# In[6]:
+//This file is mainly used for capstone project 
 
 
 import pandas as pd
